@@ -14,6 +14,8 @@ import android.view.LayoutInflater;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.androhi.nfctest.record.ParsedNdefRecord;
+
 public class NFCTestActivity extends Activity {
 	static final String TAG = "NFCTestActivity";
 	static final int ACTIVITY_TIMEOUT_MS = 1 * 1000;

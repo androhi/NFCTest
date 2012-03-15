@@ -6,6 +6,11 @@ import java.util.List;
 import android.nfc.NdefMessage;
 import android.nfc.NdefRecord;
 
+import com.androhi.nfctest.record.ParsedNdefRecord;
+import com.androhi.nfctest.record.SmartPoster;
+import com.androhi.nfctest.record.TextRecord;
+import com.androhi.nfctest.record.UriRecord;
+
 /**
  * Utility class for creating {@link ParsedNdefMessage}s.
  * @author androhi

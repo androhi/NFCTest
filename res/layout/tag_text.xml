@@ -3,7 +3,7 @@
     android:id="@+id/text"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:minHeight="?android:attr/listPrefferdItemHeight"
+    android:minHeight="?android:attr/listPreferredItemHeight"
     android:padding="4dip"
     android:textAppearance="?android:attr/textAppearanceMedium"
     android:maxLines="5"
